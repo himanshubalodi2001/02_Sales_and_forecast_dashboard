@@ -88,9 +88,10 @@ This dashboard helps business managers and sales teams to:
 Made with ❤️ by **Himanshu Balodi**  
 Aspiring Data Analyst | Passionate about turning raw data into decisions
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourname)
-- 📧 your.email@example.com
-- 🌐 [Portfolio](https://your-portfolio.com)
+If you liked this project or want to collaborate on analytics, feel free to reach out:
+
+🔗 LinkedIn-https://www.linkedin.com/in/himanshu-balodi2001/
+📧 himanshu.balodi.ds@gmail.com
 
 ---
 
